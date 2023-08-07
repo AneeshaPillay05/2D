@@ -1,7 +1,7 @@
 Data package description 
 
 Manuscript title: A unified approach for morphometrics and functional data analysis with machine learning for craniodental shape quantification in shrew species
-Authors:  A. B., Pillay, , S., Dabo-Niang, A., Abu, Omar, H.D., Pathmanathan  
+Authors:  A. B., Pillay, S., Dabo-Niang, A., Abu, Omar, H.D., Pathmanathan  
 Email: : dharini@um.edu.my
 
 
@@ -14,6 +14,8 @@ The folder Image_Data_murinus contains TIFF images of the shrew skulls of Suncus
 
 2. tpsdata
 This folder contains the tps file of the three shrew species according to the dorsal, jaw and lateral
+
+3. R codes for 2D FDGM 
 
 
 
