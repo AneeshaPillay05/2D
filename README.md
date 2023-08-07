@@ -2,7 +2,7 @@ Data package description
 
 Manuscript title: A unified approach for morphometrics and functional data analysis with machine learning for craniodental shape quantification in shrew species
 Authors:  A. B., Pillay, S., Dabo-Niang, A., Abu, Omar, H.D., Pathmanathan  
-Email: : dharini@um.edu.my
+Email: dharini@um.edu.my
 
 
 1. Image_Data_Shrew
